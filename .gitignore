@@ -2,3 +2,4 @@
 catboost_info
 .idea
 data
+.DS_Store
